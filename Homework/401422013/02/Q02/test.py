@@ -2,7 +2,7 @@ import unittest
 from block import Block
 
 
-class Q01TestCase(unittest.TestCase):
+class Q02TestCase(unittest.TestCase):
 
     def test_mine(self):
         block_id = 1
