@@ -1,5 +1,5 @@
 import unittest
-from Q01.cryptography_helper import CryptographyHelper
+from cryptography_helper import CryptographyHelper
 
 
 class Q01TestCase(unittest.TestCase):

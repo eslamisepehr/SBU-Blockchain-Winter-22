@@ -1,6 +1,5 @@
 import unittest
-
-from Q02.block import Block
+from block import Block
 
 
 class Q01TestCase(unittest.TestCase):
